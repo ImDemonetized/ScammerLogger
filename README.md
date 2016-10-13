@@ -5,7 +5,7 @@ This program is a Keylogger ( Like Scammer Bingo )
 Certain Word's type will cause a command to be released
 #############################################################
 =============================================================
-Word's ------------------------------------------------------
+Word's 
 Level 1 = CMD
 Level 2 = TREE
 Level 3 = EVENTVWR
